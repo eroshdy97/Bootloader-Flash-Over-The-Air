@@ -1,0 +1,14 @@
+Debug/
+.launches/
+.settings/
+targetConfigs
+.ccsproject
+.cproject
+.project
+*.hex
+*.d
+*.mk
+*.obj
+*.out
+*.opt
+*.prefs
